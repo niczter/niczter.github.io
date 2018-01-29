@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+
+body {
+	font-family: 'Roboto', sans-serif;
+    padding: 0px 10px;
+	padding: 20px;
+	background: url(img/main.jpg) no-repeat center center fixed;
+  	-moz-background-size: cover;
+ 	-o-background-size: cover;
+	background-size: cover;
+}
+
+
+
+.hero2{
+
+	font-size: 30px;
+	text-align: justify;
+	background: #111;
+	opacity: 0.7;
+	color: white;
+}
+
+.featcard {
+	font-size: 50px;
+	text-align: center;
+	color: #98ff98;
+}
+#address {
+	font-size: 15px;
+	color: gray;
+	margin-top: 10px;
+	padding: 10px;
+}
+#copyright {
+	float: right;
+	list-style: none;
+	margin-top: 10px;
+	padding: 10px;
+}
+#footer{
+	border-top: 1px solid #000000;
+	margin:37% 0 0 0;
+}
